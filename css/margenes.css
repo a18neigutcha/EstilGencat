@@ -1,0 +1,30 @@
+#header{
+    height: 150px;
+    margin-bottom: 5px;
+}
+
+#header-content{
+    height: 100%;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#logo-generalitat{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#subHeader{
+    height: 100px;
+}
+
+#subHeader-content{
+    height: 100%;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#contingut{
+    margin-left: 400px;
+    margin-right: 400px;
+}
