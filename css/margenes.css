@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 #header{
     height: 150px;
     margin-bottom: 5px;
@@ -5,8 +8,8 @@
 
 #header-content{
     height: 100%;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 #logo-generalitat{
@@ -20,11 +23,23 @@
 
 #subHeader-content{
     height: 100%;
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
+#bodier{
+    margin-left: 90px;
+    margin-right: 90px;
+}
+#footer{
+    
+    margin-left: 90px;
+    margin-right: 90px;
+}
 #contingut{
     margin-left: 400px;
     margin-right: 400px;
+}
+#textLegal{
+    margin-left: 150px;
 }
