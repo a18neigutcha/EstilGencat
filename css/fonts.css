@@ -32,6 +32,12 @@ li{
     font-size: 14px;
     font-weight: 400;
 }
-#textLegal{
+.textLegal{
     font-size: 0.688em;
+}
+
+.link{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
 }

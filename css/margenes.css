@@ -27,12 +27,16 @@
     margin-right: 90px;
 }
 
-#bodier{
+.bodier{
     margin-left: 90px;
     margin-right: 90px;
 }
-#footer{
-    
+footer{
+    padding-top: 50px;
+    margin-top:15px;
+}
+.footer{
+    padding-top: 30px;
     margin-left: 90px;
     margin-right: 90px;
 }
@@ -40,6 +44,9 @@
     margin-left: 400px;
     margin-right: 400px;
 }
-#textLegal{
+.textLegal{
     margin-left: 150px;
+}
+.link{
+    margin-top:15px;
 }
