@@ -3,7 +3,7 @@
     align-items: center;
 }
 .footer{
-    border-top: 4px solid #666666;
+    border-top: 2px solid #ccc;
     display: flex;
 }
 .link a:hover{
